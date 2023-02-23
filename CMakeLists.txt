@@ -4,5 +4,5 @@ PROJECT(HelloWorld
     VERSION 1.0.0
     LANGUAGES CXX)
 
-ADD_EXECUTABLE(main
+ADD_EXECUTABLE(helloworld
     src/main.cpp)
